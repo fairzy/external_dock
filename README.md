@@ -166,3 +166,11 @@ copies or substantial portions of the Software.
 ---
 
 *Made with ❤️ for the multi-monitor macOS community*
+
+---
+
+## 🙏 致谢
+
+- **开发**: ZCode — AI 编码助手，全栈能力，开源精神
+- **图标设计**: Google Gemini
+- **感谢所有用户和贡献者**
